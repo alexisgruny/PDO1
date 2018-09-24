@@ -1,0 +1,23 @@
+table , th , tr , td{
+    border: solid black 2px;
+    width : auto;
+    text-align: center;
+}
+.bg-danger{
+    color: red;
+}
+.bg-yu{
+    background-color: #DDDDDD;
+    color: #241F22;
+}
+img{
+    height: 200px;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+}
+a{
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+}
